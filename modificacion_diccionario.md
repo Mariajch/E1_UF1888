@@ -87,6 +87,29 @@ Educación, con código EDU001 y su descripción correspondiente.
 
 ![Formulario de segmento comercial](captura/08_formulario_segmento_comercial.png)
 
+## Creación de la vista de búsqueda y filtros
+
+Se creó una vista de tipo Buscar para el modelo
+x_segmento_comercial, con el nombre
+x_segmento_comercial.search.
+
+La vista permite buscar segmentos comerciales
+por su nombre o código.
+
+También se configuraron dos filtros personalizados:
+
+- Con clientes: muestra los segmentos comerciales
+  que tienen clientes asociados.
+- Sin descripción: muestra los segmentos comerciales
+  que no tienen una descripción registrada.
+
+Se comprobó el funcionamiento de ambos filtros
+desde Contactos → Segmentos comerciales.
+
+### Evidencia del filtro Sin descripción
+
+![Filtro Sin descripción](captura/10_filtro_sin_descripcion.png)
+
 
 
 
