@@ -110,6 +110,16 @@ desde Contactos → Segmentos comerciales.
 
 ![Filtro Sin descripción](captura/10_filtro_sin_descripcion.png)
 
+### Comprobación del filtro Preferentes y VIP
+
+Se comprobó el funcionamiento del filtro "Preferentes y VIP" desde Contactos.
+
+Al aplicar el filtro, Odoo mostró el contacto Academia Teide Formación, que tiene asignado el nivel de cliente Preferente.
+
+La prueba confirma que el filtro funciona correctamente.
+
+![Filtro Preferentes y VIP](captura/11_filtro_preferentes_vip.png)
+
 
 
 
