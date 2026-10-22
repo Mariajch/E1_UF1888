@@ -72,6 +72,21 @@ asignandole:
 
 ![Academia Teide Formacion](<captura/04_cliente_modificado.png>)
 
+### Creación del menú y mejora del formulario
+
+Se creó una acción de ventana llamada "Segmentos comerciales",
+asociada al modelo x_segmento_comercial.
+
+Se añadió el menú "Segmentos comerciales" dentro de Contactos.
+
+También se modificó la vista x_segmento_comercial.form
+para mostrar los campos Nombre, Código y Descripción.
+
+Se comprobó su funcionamiento abriendo el segmento
+Educación, con código EDU001 y su descripción correspondiente.
+
+![Formulario de segmento comercial](captura/08_formulario_segmento_comercial.png)
+
 
 
 
